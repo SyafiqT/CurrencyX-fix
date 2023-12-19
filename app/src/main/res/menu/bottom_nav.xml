@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/news"
+        android:title="News"
+        android:icon="@drawable/pngwing_com"/>
+    <item
+        android:id="@+id/convert"
+        android:icon="@drawable/money_convert"
+        android:title="Converter" />
+    <item
+        android:id="@+id/calculator"
+        android:icon="@drawable/pngwing_com__1_"
+        android:title="Calculator" />
+</menu>

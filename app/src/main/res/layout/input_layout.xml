@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#28344C">
+    <TextView
+        android:id="@+id/angkaMasuk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:gravity="end"
+        android:textColor="@color/black"
+        android:background="#99BADD"
+        android:padding="10dp"
+        android:text=""/>
+
+    <TextView
+        android:id="@+id/angkaKeluar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="end"
+        android:padding="25dp"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="60sp"
+        android:background="@drawable/rounded_corner_background"/>
+</LinearLayout>

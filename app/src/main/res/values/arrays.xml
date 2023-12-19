@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency_options">
+        <item>IDR</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>SGD</item>
+        <item>MYR</item>
+        <item>JPY</item>
+        <item>CNY</item>
+        <item>AUD</item>
+        <item>CHF</item>
+        <item>PHP</item>
+        <item>THB</item>
+        <item>HKD</item>
+        <item>CAD</item>
+        <item>NZD</item>
+        <item>KRW</item>
+        <item>INR</item>
+        <item>SAR</item>
+        <item>MXN</item>
+        <item>ZAR</item>
+        <item>RUB</item>
+        <!-- Add more currency options as needed -->
+    </string-array>
+</resources>
